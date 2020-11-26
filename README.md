@@ -1,4 +1,4 @@
-# Linux System Monitor
+# Sysmon - Linux system monitor
 
 Linux system monitor application built with ncurses widget toolkit. It keeps track of CPU and memory usage and
 network activity in real-time and plots it in the terminal window using different colour codes. Used C standard
